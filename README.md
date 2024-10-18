@@ -8,7 +8,7 @@
 - **Database**: MongoDB, MongoDB Atlas
 - **Version Control**: Git, GitHub
 - **API Development**: RESTful APIs, Postman
-- **Tools & Platforms**: VS Code, Bootstrap,  Docker
+- **Tools & Platforms**: VS Code,  Docker
 
 ## 💻 Current Projects
 - **[Stramco](https://stramcosolutions)**: An HR consultancy platform with job posting and recruitment features.
