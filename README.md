@@ -9,6 +9,7 @@
 - **Version Control**: Git, GitHub
 - **API Development**: RESTful APIs, Postman
 - **Tools & Platforms**: VS Code,  Docker
+- **Other languages**: Python, C sharp, Java ,Kotlin
 
 ## 💻 Current Projects
 - **[Stramco](https://stramcosolutions)**: An HR consultancy platform with job posting and recruitment features.
