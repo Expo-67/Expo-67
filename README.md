@@ -1,6 +1,6 @@
 # Ndung'u James K. - Full-Stack Software Developer
 
-👋 Hi there! I'm **Ndung'u James Kinungi**, a passionate **Full-Stack Software Developer** with expertise in modern web technologies. Currently, I’m enrolled in the **Full-Stack Development Bootcamp** at **GomyCode Kenya** (May 2024 - October 2024), where I’m refining my skills in building dynamic, user-centric applications from end to end.
+👋 Hi there! I'm **Ndung'u James Kinungi**, a passionate **Full-Stack Software Developer** with expertise in modern web technologies. Currently, I’m enrolled in the **Full-Stack Development Bootcamp** at **GomyCode Kenya** (May 2024 - December 2024), where I’m refining my skills in building dynamic, user-centric applications from end to end.
 
 ## 🛠️ Skills & Technologies
 - **Frontend**: React, HTML5, CSS3, JavaScript
