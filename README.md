@@ -1,6 +1,5 @@
 
-👋 Hi there! I'm James, a passionate **Full-Stack Software Developer** with expertise in modern web technologies. Currently, I’m enrolled in the **Full-Stack Development Bootcamp** at **GomyCode Kenya** (May 2024 - December 2024), where I’m refining my skills in building dynamic, user-centric applications from end to end.
-
+👋 Hi there! I'm James, a passionate **Full-Stack Software Developer** with expertise in modern web technologies(MERN stack). 
 ## 🛠️ Skills & Technologies
 - **Frontend**: React, HTML5, CSS3, JavaScript
 - **Backend**: Node.js, Express.js
@@ -10,16 +9,8 @@
 - **Tools & Platforms**: VS Code,  Docker
 - **Other languages**: Python, C sharp, Java ,Kotlin
 
-## 💻 Current Projects
-- **[Stramco](https://stramcosolutions)**: An HR consultancy platform with job posting and recruitment features.
-- **Workout Generator**: A tool to customize workout routines based on muscle groups and fitness goals.
-- **Helpline**: A web app developed to assist patients in connecting with therapists for virtual chats.
-
-## 📜 Certifications
-- **Postman API Fundamentals Student Expert**
-- Various courses on web development, Git, cloud computing, and blockchain from platforms like Coursera.
-
 ## 🎓 Education
+- **Software Development** - Gomycode (May- December 2024 )
 - **Bachelor’s Degree in Computer Science** - Africa Nazarene University (2019 - 2023)
 
 
