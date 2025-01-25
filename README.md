@@ -9,11 +9,6 @@
 - **Tools & Platforms**: VS Code,  Docker
 - **Other languages**: Python, C sharp, Java ,Kotlin
 
-## 🎓 Education
-- **Software Development** - Gomycode (May- December 2024 )
-- **Bachelor’s Degree in Computer Science** - Africa Nazarene University (2019 - 2023)
-
-
 ## 🚀 About Me
 I’m driven by a desire to create solutions that make a difference. My journey as a software developer has been shaped by both formal education and hands-on project experience, ranging from building mobile apps to working on full-stack web applications. I believe in the power of technology to solve real-world problems and am committed to continuous learning to stay ahead in this ever-evolving field.
 
