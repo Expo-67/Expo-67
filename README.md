@@ -49,7 +49,7 @@ Check out some of my work in the **Featured Projects** below!
 
 ## 🌟 My Portfolio
 
-Explore my projects, apps, and experiments here:  
+Explore my projects, apps, and apps here:  
 [🚀 Visit Portfolio](https://probable-octo-winner-9iqc.vercel.app/)
 
 ---
