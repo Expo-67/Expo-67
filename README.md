@@ -4,6 +4,12 @@ I’m a **Full-Stack Software Developer** 🧪 based in **Ongata Rongai, Kenya**
 With nearly 2 years of hands-on experience, I’ve contributed to and built real-world applications that solve problems and delight users. I’m passionate about **clean architecture**, **maintainable code**, and creating technology that feels effortless for both users and clients.  
 Check out some of my work in the **Featured Projects** below!
 
+---
+
+## 🚀 My Portfolio
+
+Explore my projects, apps, and apps here:  
+[🏎️ Visit Portfolio](https://probable-octo-winner-9iqc.vercel.app/)
 
 ---
 
@@ -45,12 +51,6 @@ Check out some of my work in the **Featured Projects** below!
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-## 🌟 My Portfolio
-
-Explore my projects, apps, and apps here:  
-[🚀 Visit Portfolio](https://probable-octo-winner-9iqc.vercel.app/)
 
 ---
 
