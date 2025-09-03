@@ -2,7 +2,6 @@
 
 I’m a **Full-Stack Software Developer** 🧪 based in **Ongata Rongai, Kenya**.  
 With nearly 2 years of hands-on experience, I’ve contributed to and built real-world applications that solve problems and delight users.  
-Check out some of my work in the **Featured Projects** below!
 
 ## 🚀 My Portfolio
 
